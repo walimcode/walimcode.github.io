@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML &amp; CSS on WaliMaker @QH</title>
+    <link>https://walimcode.github.io/categories/html-css/</link>
+    <description>Recent content in HTML &amp; CSS on WaliMaker @QH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://walimcode.github.io/categories/html-css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scratch</title>
+      <link>https://walimcode.github.io/blog/post-2/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://walimcode.github.io/blog/post-2/</guid>
+      <description>About Scratch ● Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.</description>
+    </item>
+    
+  </channel>
+</rss>

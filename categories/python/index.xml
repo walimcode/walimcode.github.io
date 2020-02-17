@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on WaliMaker @QH</title>
+    <link>https://walimcode.github.io/categories/python/</link>
+    <description>Recent content in Python on WaliMaker @QH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://walimcode.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MciroPython</title>
+      <link>https://walimcode.github.io/blog/post-9/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://walimcode.github.io/blog/post-9/</guid>
+      <description>MicroPython @WALIMAKER MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.</description>
+    </item>
+    
+  </channel>
+</rss>

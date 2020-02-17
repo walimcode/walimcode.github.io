@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on WaliMaker @QH</title>
+    <link>https://walimcode.github.io/about/</link>
+    <description>Recent content in Abouts on WaliMaker @QH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://walimcode.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://walimcode.github.io/about/about/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://walimcode.github.io/about/about/</guid>
+      <description>● 全国素质教育推广中心战略合作伙伴● 国家社科基金重点课题拟写单位● 教育部、科协赛事提供方● 中国电子学会考级认证战略合作伙伴</description>
+    </item>
+    
+  </channel>
+</rss>
